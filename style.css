@@ -21,6 +21,11 @@ nav ul {
 
 }
 
+.header{
+    background: #FFF8F3;
+    margin-top: 0;
+}
+
 .nav-title {
     font-weight: 800;
     font-size: 45px;
@@ -49,5 +54,13 @@ nav ul {
 .author-name {
     font-size: 85px;
     font-style: normal;
+    margin-bottom: 20px;
+
 }
 
+.banner-area p {
+    color: #757575;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
